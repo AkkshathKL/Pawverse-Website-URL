@@ -103,6 +103,3 @@ Users earn coins for:
 ->Successful playdates
 
 *Coins can be redeemed for pet gifts, discounts, or donated to animal shelters, turning good actions into real impact.*
-
-
-**By: Akkshath Kumar Lala, Aarush Singh, Amish Khurana**
