@@ -2,7 +2,7 @@
 
 1) Download the "Pawverse.html" file.
 
-2) Double-Click to run.*
+2) Double-Click to run.
 
 
 **🎨 Design Philosophy**
