@@ -1,3 +1,8 @@
+**How To Run**
+*1) Download the "Pawverse.html" file.
+2) Double-Click to run.*
+
+
 **🎨 Design Philosophy**
 *Pawverse is designed to feel:*
 ->Clean and welcoming
@@ -93,4 +98,4 @@ Users earn coins for:
 *Coins can be redeemed for pet gifts, discounts, or donated to animal shelters, turning good actions into real impact.*
 
 
-By: Akkshath Kumar Lala, Aarush Singh, Amish Khurana
+**By: Akkshath Kumar Lala, Aarush Singh, Amish Khurana**
