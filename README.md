@@ -4,6 +4,8 @@
 
 2) Double-Click to run.
 
+(Note: The actual URL to our website is "https://amishkhurana0605.bubbleapps.io/version-test/. " We used HTML to redirect to this URL so that we could upload it to GitHub.)
+
 
 **🎨 Design Philosophy**
 *Pawverse is designed to feel:*
