@@ -1,5 +1,6 @@
 **Team- Visionary Codex**
-**~Akkshath Kumar Lala, Arush Singh, Amish Khurana**
+
+  **~Akkshath Kumar Lala, Amish Khurana, Arush Singh**
 
 **How To Run**
 
@@ -9,30 +10,46 @@
 
 (Note: The actual URL to our website is "https://amishkhurana0605.bubbleapps.io/version-test/. " We used HTML to redirect to this URL so that we could upload it to GitHub.)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 **🎨 Design Philosophy**
+
 *Pawverse is designed to feel:*
+
 ->Clean and welcoming
+
 ->Easy to navigate
+
 ->Friendly to both new and experienced users
 
 *The interface uses card-based layouts and is fully responsive across devices.*
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
 **🚀 Our Goal**
+
 *Pawverse is built to grow naturally through trust, usefulness, and local relevance.
 It aims to create a space where pet parents don’t just scroll, but connect, support, and show up for one another.*
 
-**🐾 "Pawverse isn’t just a platform.
-It’s a neighbourhood for pet parents"**
+**🐾 "Pawverse isn’t just a platform.**
+
+**It’s a neighbourhood for pet parents"**
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 **🌍 Why Pawverse Exists**
+
 Pets are family, and caring for them comes with questions, joys, and challenges that are easier when shared. Pawverse exists to help pet parents:
+
 -> Meet others nearby who understand their pets
+
 ->Feel supported during emergencies or uncertainty
+
 ->Learn from real experiences, not just articles
+
 ->Turn online connections into safe, real-world interactions
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 **✨ What You Can Do on Pawverse**
 
